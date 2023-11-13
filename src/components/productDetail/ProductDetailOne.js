@@ -27,7 +27,7 @@ function ProductDetailLayoutOne({ data }) {
         </Container>
       </div>
       <div className="product-detail-one-bottom">
-        <ProductDetailTabOne />
+        <ProductDetailTabOne  data={data} />
       </div>
     </div>
   );

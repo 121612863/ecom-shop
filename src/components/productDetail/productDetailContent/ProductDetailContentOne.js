@@ -59,9 +59,7 @@ function ProductDetailContentOne({
         )}
       </div>
       <p className="product-detail-content-one-description">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi illo
-        possimus quae tenetur. Porro aliquam quaerat dolorum pariatur molestias
-        commodi ipsa
+        
       </p>
       {showCountdown && (
         <>
