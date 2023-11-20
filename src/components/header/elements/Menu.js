@@ -51,8 +51,8 @@ function Menu({ containerType }) {
             />
             <div className="menu-functions">
               <Button>
-                <Link href="#">
-                  <a>Join now</a>
+                <Link href="/new-product">
+                  <a>Ký Gửi</a>
                 </Link>
               </Button>
               <div

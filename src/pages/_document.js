@@ -28,6 +28,7 @@ class MyDocument extends Document {
           />
           <link href="/assets/css/elegant-icon.css" rel="stylesheet" />
           <link href="/assets/css/icomoon-icon.css" rel="stylesheet" />
+          <link href="/assets/css/global.css" rel="stylesheet" />
         </Head>
         <body>
           <Main />

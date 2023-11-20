@@ -12,6 +12,7 @@ module.exports = withLess(
   withSass({
     env: {
       PUBLIC_URL: "",
+      
     },
     lessLoaderOptions: {
       javascriptEnabled: true,

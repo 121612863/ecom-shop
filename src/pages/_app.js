@@ -4,6 +4,7 @@ import { PersistGate } from "redux-persist/lib/integration/react";
 import { persistor, store } from "../redux/store";
 import "../styles/antd.less";
 import "../styles/styles.scss";
+
 import Loading from "../components/other/Loading";
 import withReduxStore from "../common/withReduxStore";
 
